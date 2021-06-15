@@ -38,15 +38,9 @@ The generated portfolio includes:
  * Social media contact information 
 
 
-<!-- ### Link to Walkthrough Video:
+:loop: Here's a GIF showing the a quick view of the app:
 
-> - [:movie_camera: Click Here for an external video link.](https://drive.google.com/file/d/1UL_enQS1NUaSNOnWEJRAG2vYJFQae5Vr/view)
-> - [:movie_camera: Click Here for the downloaded MP4 video saved locally.](./src/demo-MP4.mp4)
-<!-- > - [:movie_camera: Click Here for the downloaded webm video saved locally.](./src/demo-webm.webm) -->
-
-<!-- :loop: Here's a GIF showing the app's overall functionality:
-
-<!-- ![demo](./src/demo.gif)  -->
+![demo](./assets/assets/images/PortDemo.gif)
 
 ## Table of Contents
 
